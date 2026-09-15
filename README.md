@@ -38,4 +38,4 @@ Supabase
 - Despliegue público
 
 ## Producción
-URL: [TU URL DE VERCEL]
+URL: https://taller-agente-ia-chi.vercel.app/
